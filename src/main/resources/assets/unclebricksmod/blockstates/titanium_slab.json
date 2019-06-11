@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "unclebricksmod:block/titanium_slab" },
+        "type=top": { "model": "unclebricksmod:block/titanium_slab_top" },
+        "type=double": { "model": "unclebricksmod:block/titanium_block" }
+    }
+}
