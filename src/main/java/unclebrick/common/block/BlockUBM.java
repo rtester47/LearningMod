@@ -11,15 +11,4 @@ public class BlockUBM extends Block
 	{
 		super(properties);
 	}
-	
-	   @Override
-	   public int getHarvestLevel(IBlockState state)
-	   {
-	      return 3;
-	   }
-	   
-	   @Override
-	   public ToolType getHarvestTool(IBlockState state) {
-	      return ToolType.PICKAXE;
-	   }
 }

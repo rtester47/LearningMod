@@ -4,11 +4,27 @@
 	"item.unclebricksmod.ubm_icon": "UBM Icon",
 	"item.unclebricksmod.titanium_ingot": "Titanium Ingot",
 	"item.unclebricksmod.titanium_nugget": "Titanium Nugget",
+	
+	"item.unclebricksmod.titanium_axe": "Titanium Axe",
+	"item.unclebricksmod.titanium_pickaxe": "Titanium Pickaxe",
+	"item.unclebricksmod.titanium_shovel": "Titanium Shovel",
+	"item.unclebricksmod.titanium_sword": "Titanium Sword",
+	"item.unclebricksmod.titanium_hoe": "Titanium Hoe",
+
+	"item.unclebricksmod.titanium_boots": "Titanium Boots",
+	"item.unclebricksmod.titanium_chestplate": "Titanium Chestplate",
+	"item.unclebricksmod.titanium_leggings": "Titanium Leggings",
+	"item.unclebricksmod.titanium_helmet": "Titanium Helmet",
 
 	"block.unclebricksmod.titanium_block": "Titanium Block",
-	"block.unclebricksmod.titanium_end_ore": "Titanium End Ore",
+	"block.unclebricksmod.titanium_door": "Titanium Door",
+	"block.unclebricksmod.titanium_end_ore": "Titanium End Stone Ore",
+	"block.unclebricksmod.titanium_fence": "Titanium Fence",
+	"block.unclebricksmod.titanium_fence_gate": "Titanium Fence Gate",
 	"block.unclebricksmod.titanium_nether_ore": "Titanium Nether Ore",
 	"block.unclebricksmod.titanium_ore": "Titanium Ore",
 	"block.unclebricksmod.titanium_slab": "Titanium Slab",
-	"block.unclebricksmod.titanium_stairs": "Titanium Stairs"
+	"block.unclebricksmod.titanium_stairs": "Titanium Stairs",
+	"block.unclebricksmod.titanium_trapdoor": "Titanium Trapdoor",
+	"block.unclebricksmod.titanium_wall": "Titanium Wall"
 }
