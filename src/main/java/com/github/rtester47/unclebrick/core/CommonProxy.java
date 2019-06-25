@@ -1,0 +1,14 @@
+package com.github.rtester47.unclebrick.core;
+
+public class CommonProxy
+{
+    public CommonProxy()
+    {
+
+    }
+
+    public void init() 
+    {
+    	
+    }
+}
